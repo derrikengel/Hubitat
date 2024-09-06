@@ -282,6 +282,7 @@ html {
     -ms-flex-pack: start;
     justify-content: flex-start;
     padding: 0 !important;
+    text-align: left !important;
 }
 
 .tile.dashboard,
